@@ -1,0 +1,11 @@
+Agenda
+
+1. Completing-read demonstration
+
+   See tinyui.el
+
+2. Babashka demonstration
+
+   See script.bb
+
+3. A tiny UI with completing-read calling into a babashka script

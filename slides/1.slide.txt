@@ -1,0 +1,7 @@
+#church-of-emacs, congregation 1
+
+Make your own tiny UI in Emacs with
+    completing-read (Emacs function)
+    and a Babashka script
+
+Teodor Heggelund

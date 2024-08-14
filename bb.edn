@@ -1,0 +1,3 @@
+{}
+
+;; empty, just to let CIDER know that it's okay to run jack in with this folder as a project root.
